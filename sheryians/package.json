@@ -1,0 +1,12 @@
+{
+  "name": "sheryians",
+  "version": "1.0.0",
+  "description": "A learning project following Sheryians Coding School tutorials",
+  "license": "ISC",
+  "author": "asion",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
