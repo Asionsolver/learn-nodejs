@@ -1,0 +1,15 @@
+{
+  "name": "natours",
+  "version": "1.0.0",
+  "description": "Learing node, express and mongodDB",
+  "license": "ISC",
+  "author": "ashis kumar paul",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "start": "npx nodemon app.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
